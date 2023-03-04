@@ -7,8 +7,3 @@ the extension has some functions below.
 - block bad websites from google search result.
 - import button, adding multiple urls to blocklist.
 - export button, sharing your blocklist to others.
-
-Personal Blocklist(not by Google) is published in Chrome Web Store.
-
-https://chrome.google.com/webstore/detail/personal-blocklistnot-by/cbbbhelcpfjhdcncigdlkabmjbgokmpg
-
